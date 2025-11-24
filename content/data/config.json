@@ -22,6 +22,16 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Finance Tracker",
+                "url": "/finance"
+            },
+            {
+                "type": "Link",
+                "label": "Deals",
+                "url": "/deals"
             }
         ],
         "socialLinks": [
@@ -66,6 +76,18 @@
                 "label": "Blog",
                 "url": "/blog",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Finance Tracker",
+                "url": "/finance",
+                "altText": "Track your car savings"
+            },
+            {
+                "type": "Link",
+                "label": "Deals",
+                "url": "/deals",
+                "altText": "Find best deals on car parts"
             },
             {
                 "type": "Link",
